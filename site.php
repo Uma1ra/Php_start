@@ -7,8 +7,9 @@
 </head>
 <body>
   <?php
-  echo "welcome to php<br/>";
-  echo date("Y-m-d H:i:s");
+  echo "<h1>This is my PHP Site</h1>";
+  echo "<hr>";
+  echo "<p>this is going to be the content</p>";
   ?>
 </body>
 </html>
